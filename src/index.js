@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import {component1} from '../components/component1';
 import {component2} from '../components/component2';
-import {component3} from '../components/component3';
+// import {component3} from '../components/component3';
 
 function component() {
     const element = document.createElement('div');

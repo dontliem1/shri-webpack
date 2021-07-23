@@ -1,3 +1,6 @@
 # Project exclude paths
 /docs/
 /node_modules/
+.idea
+
+unused.json
